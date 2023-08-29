@@ -8,7 +8,7 @@ print(len(lgu))
 print(lgu.upper())
 # print(lgu.lower())
 # print(lgu.rstrip("r"))
-print(az.replace("Azhar","Mahira"))
+print(az.replace("Azhar","Chipmunk"))
 print(im.capitalize())
 
 print(lgu[0:8])

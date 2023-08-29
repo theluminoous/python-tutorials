@@ -4,3 +4,7 @@ for x in range(1,15):
       print("Out of loop")
       continue
     print(z," X" , x,"=", x * z)
+
+
+
+

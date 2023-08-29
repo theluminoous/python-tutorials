@@ -20,6 +20,6 @@ print(bee)
 
 list = [134,54, ["Python Learning"], "Chipmunk"]
 touple = (45,67,78,("Why you are so sweet", 33),"You")
-dic={"Azhar":"Mahira", "B'day": "28 feb both",}
+dic={"Azhar":"Chipmunk", "B'day": "28 feb both",}
 
 print(list,touple,dic)
