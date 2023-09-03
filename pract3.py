@@ -14,3 +14,6 @@ print(pakistan)
 az = "Azhar Saleem"
 ma = "Chipmunk"
 print( "%s and %s  Never ends " % (az , ma))
+print(az.count("1"))
+print(az.startswith("Azhar"))
+print(az.upper())
